@@ -25,6 +25,7 @@ const Banner = () => {
                 </div>             
               
             </section>
+            
             <section>
             <div className='collect_banner'>
                     <div className='container'>
