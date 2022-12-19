@@ -373,6 +373,17 @@ h3{
 }
 .frequently{
 
+
+  
+  
+}
+
+.footer{
+  position: relative;
+  // background-image: url(../src//images/footer.png);
+  // background-position: center;
+  // background-repeat: no-repeat;
+  // background-size: cover;
   .frequently_inner{
     max-width: 900px;
     margin: auto;
@@ -381,14 +392,5 @@ h3{
     h2{
       font-size: 70px;
     }
-  }
-  
-  
-}
-
-.footer_shap{
-
-  img{
-    transform: rotate(90deg);
   }
 }
